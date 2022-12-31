@@ -2,4 +2,6 @@
 void main()
 {
 	printf("Hello World\n");
+	printf("Hello skdjbw\n");
+	int a, b, c;
 }
